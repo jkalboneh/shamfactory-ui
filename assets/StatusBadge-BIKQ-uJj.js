@@ -1,0 +1,1 @@
+import{ft as e}from"./index-BzDMz0Or.js";var t=e();function n({tone:e,children:n}){return(0,t.jsx)(`span`,{className:`fs-badge fs-badge--${e}`,children:n})}export{n as t};
